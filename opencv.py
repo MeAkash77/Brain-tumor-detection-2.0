@@ -1,6 +1,8 @@
 
 import cv2
 import numpy as np
+print(cv2.__version__)
+print(np.__version__)
 
 def edgeDetection(image, sigma=0.33):
     # compute the median of the single channel pixel intensities
