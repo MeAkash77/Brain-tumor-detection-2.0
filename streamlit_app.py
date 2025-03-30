@@ -1,4 +1,4 @@
-[theme]
+
 
 # Primary accent for interactive elements
 primaryColor = '#E45354'
