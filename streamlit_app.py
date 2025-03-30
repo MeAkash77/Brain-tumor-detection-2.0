@@ -1,3 +1,4 @@
+[theme]
 primaryColor = '#E45354'
 
 # Background color for the main content area
