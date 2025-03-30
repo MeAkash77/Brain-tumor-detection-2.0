@@ -68,18 +68,11 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+D
 
 
-<!-- Authors -->
-## Authors
 
-Harvey Pham 
-[@Linkedin](https://www.linkedin.com/in/harveyphm/) 
-Email: qhuy.phm@gmail.com
+
 
 
 
