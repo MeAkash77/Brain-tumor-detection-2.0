@@ -1,0 +1,15 @@
+opencv
+numpy
+matplotlib
+scipy
+torch
+torchvision
+tqdm
+ultralytics
+streamlit
+fastai 
+
+
+
+
+
